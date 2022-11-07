@@ -3,7 +3,7 @@
 Source code of the paper [Camele & Hasperué, _Performance analysis of the Survival-SVM classifier applied to gene expression databases_, IJRES (2022)][paper-link].
 
 
-## Instalación 
+## Installation
 
 To run the code you need to install the dependencies:
 

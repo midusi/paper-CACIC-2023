@@ -1,6 +1,6 @@
 # Performance analysis of the Survival-SVM classifier applied to gene expression databases
 
-Source code of the paper Camele & Hasperué, _Performance analysis of the Survival-SVM classifier applied to gene expression databases_, CLEI (2023).
+Source code of the paper Camele & Hasperué, _Performance analysis of the Survival-SVM classifier applied to gene expression databases_, CACIC (2023).
 
 
 ## Installation
